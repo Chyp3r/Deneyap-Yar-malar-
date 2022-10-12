@@ -1,2 +1,2 @@
-# Deneyap-Yar-malar-
+# Deneyap-Kodlar
 Deneyap Türkiye Atölyelerinde yapılan yarışmalarda kullanılan kodlar
