@@ -27,7 +27,7 @@
 
 ## Öğrenci Seçimi
   
-<img src="<img src="https://www.deneyapturkiye.org//upload/osssurec.jpg" width="auto">" width="auto">
+<img src="https://www.deneyapturkiye.org//upload/osssurec.jpg" width="auto">
 
 ### E Sınav Aşaması
   > Eğitime dahil olmak isteyen öğrenciler ilk olarak e-sınava girerler. Sınav ortaokul ve lise seviyesinde hazırlanır. 2021-2022 eğitim öğretim yılında 4. ve 5. sınıflar ortaokul sınavına, 8. sınıf , 9. sınıf öğrencileri ile lise hazırlık sınıfı öğrencileri lise sınavına dahil olurlar. E-sınav matematik, fen, algoritma ve genel kültür bölümlerden oluşur. Sınav 40 sorudan oluşmakta ve 100 dakika sürmektedir. Sınav sorularında muhakeme, verileri okuyabilme ve yorumlama, çıkarım yapabilme, problemi tespit edebilme, kritik düşünebilme, araştırma yapabilme ve değişken belirleme becerileri ölçülür. Sınav, bilgilerin değil becerilerin ölçüldüğü sorular içerir. 
