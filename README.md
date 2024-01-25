@@ -1,7 +1,5 @@
 # Deneyap-Kodlar
 
-<img src="https://deneyapturkiye.org/img/logo.png" width="auto">
-
 ## Bu Repoda Neler Var ?
 
   > Bu repoda benim ve takım arkadaşlarımın Deneyap Teknoloji atölyelerinde aldıkları derslerin final yarışmalarına katıldığımız projelerin benim tarafımdan yazılan kodları yer almaktadır. Aşağıdaki yazıdan Deneyap hakkında daha detaylı bilgi alabilirsiniz.
@@ -15,8 +13,6 @@
 
 ## Deneyap Ders Süreci Nasıl İşliyor ?
 
-<img src="https://deneyapturkiye.org/resim/egitim_modeli.png" width="auto">
-
  ### Ders Dönemi: 
   > Öğrenciler 11 ayrı başlıkta teknoloji ve proje geliştirme temelli eğitimler almaktadırlar. Burada amaç; hedeflenen disiplinlerle ilgili öğrencilerin alan bilgisi, problem çözme, yaratıcı düşünme, eleştirel düşünme, bilimin ve teknolojinin doğasını anlama, sistematik düşünme, özgüven, problem çözme, işbirliği yaparak takımla çalışma, yeni gelişen durumlara uyum sağlayabilme, girişimcilik, bilgiyi analiz etme ve değerlendirme, sorgulama, merak, yaratıcılık ve iletişim becerilerini de geliştirmek ve Ar-Ge yapabilen bireyler yetiştirmektir.
   
@@ -27,8 +23,6 @@
 
 ## Öğrenci Seçimi
   
-<img src="https://www.deneyapturkiye.org//upload/osssurec.jpg" width="auto">
-
 ### E Sınav Aşaması
   > Eğitime dahil olmak isteyen öğrenciler ilk olarak e-sınava girerler. Sınav ortaokul ve lise seviyesinde hazırlanır. 2021-2022 eğitim öğretim yılında 4. ve 5. sınıflar ortaokul sınavına, 8. sınıf , 9. sınıf öğrencileri ile lise hazırlık sınıfı öğrencileri lise sınavına dahil olurlar. E-sınav matematik, fen, algoritma ve genel kültür bölümlerden oluşur. Sınav 40 sorudan oluşmakta ve 100 dakika sürmektedir. Sınav sorularında muhakeme, verileri okuyabilme ve yorumlama, çıkarım yapabilme, problemi tespit edebilme, kritik düşünebilme, araştırma yapabilme ve değişken belirleme becerileri ölçülür. Sınav, bilgilerin değil becerilerin ölçüldüğü sorular içerir. 
   > Sınavda doğru sayıları esas alınır ve yanlışlar doğruları etkilemez. Sınav sonunda, her öğrenci kendi seviyesindeki öğrenciler arasından değerlendirilir. Her ilin kontenjanı doğrultusunda 2.5 katı kadar öğrenci uygulama sınavına davet edilir. Böylelikle her il kendi içinde farklı taban puanlarına sahip olur. Hem sınıf seviyesindeki sıralama, hem de il bazlı sıralama tamamlandığında uygulama sınavına dahil olan öğrenciler ilan edilir.
